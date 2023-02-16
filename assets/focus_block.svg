@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="482.805" height="196.978" viewBox="0 0 482.805 196.978">
+  <g id="session_focus" transform="translate(-151.479 -294.109)">
+    <g id="section_background" transform="translate(151.479 344.534)">
+      <rect id="rounded_white" width="482.805" height="146.553" rx="20" transform="translate(0 0)" fill="#fff"/>
+    </g>
+    <g id="session_focus_heading" transform="translate(171.479 294.109)">
+      <rect id="heading_bg" width="197.475" height="50.454" transform="translate(0 0)" fill="#333"/>
+      <text id="Workshop_focus:" data-name="Workshop focus:" transform="translate(18.988 32.308)" fill="#fff" font-size="22" font-family="Ladislav-Bold, Ladislav" font-weight="700"><tspan x="0" y="0">Workshop focus:</tspan></text>
+    </g>
+    <g id="focus_indicators" transform="translate(99.412 -473.569)">
+      <g id="development" transform="translate(0 -5)">
+        <text id="Development:" transform="translate(130 850)" font-size="19" font-family="Ladislav-Bold, Ladislav" font-weight="700"><tspan x="-51.262" y="0">Development:</tspan></text>
+        <circle id="circle_outter" cx="51" cy="51" r="51" transform="translate(79 856)" fill="#fcf3f2"/>
+        <path id="circle_inner" d="M37,0A37,37,0,1,1,0,37,37,37,0,0,1,37,0Z" transform="translate(93 870)" fill="#333"/>
+        <text id="percentage" transform="translate(130 918)" fill="#fcf3f2" font-size="28" font-family="Ladislav-Bold, Ladislav" font-weight="700"><tspan x="-28.504" y="0">100%</tspan></text>
+      </g>
+      <g id="design" transform="translate(111 -5)">
+        <text id="Design:" transform="translate(130 850)" font-size="19" font-family="Ladislav-Bold, Ladislav" font-weight="700"><tspan x="-27.455" y="0">Design:</tspan></text>
+        <circle id="circle_outter-2" data-name="circle_outter" cx="51" cy="51" r="51" transform="translate(79 856)" fill="#fcf3f2"/>
+        <path id="circle_inner-2" data-name="circle_inner" d="M37,0A37,37,0,1,1,0,37,37,37,0,0,1,37,0Z" transform="translate(93 870)" fill="#333"/>
+        <text id="percentage-2" data-name="percentage" transform="translate(130 918)" fill="#fcf3f2" font-size="28" font-family="Ladislav-Bold, Ladislav" font-weight="700"><tspan x="-14.616" y="0">x%</tspan></text>
+      </g>
+      <g id="marketing" transform="translate(222 -5)">
+        <text id="Marketing:" transform="translate(130 850)" font-size="19" font-family="Ladislav-Bold, Ladislav" font-weight="700"><tspan x="-39.928" y="0">Marketing:</tspan></text>
+        <circle id="circle_outter-3" data-name="circle_outter" cx="51" cy="51" r="51" transform="translate(79 856)" fill="#fcf3f2"/>
+        <path id="circle_inner-3" data-name="circle_inner" d="M37,0A37,37,0,1,1,0,37,37,37,0,0,1,37,0Z" transform="translate(93 870)" fill="#333"/>
+        <text id="percentage-3" data-name="percentage" transform="translate(130 918)" fill="#fcf3f2" font-size="28" font-family="Ladislav-Bold, Ladislav" font-weight="700"><tspan x="-14.616" y="0">x%</tspan></text>
+      </g>
+      <g id="business" transform="translate(333 -5)">
+        <text id="Business:" transform="translate(130 850)" font-size="19" font-family="Ladislav-Bold, Ladislav" font-weight="700"><tspan x="-36.432" y="0">Business:</tspan></text>
+        <circle id="circle_outter-4" data-name="circle_outter" cx="51" cy="51" r="51" transform="translate(79 856)" fill="#fcf3f2"/>
+        <path id="circle_inner-4" data-name="circle_inner" d="M37,0A37,37,0,1,1,0,37,37,37,0,0,1,37,0Z" transform="translate(93 870)" fill="#333"/>
+        <text id="percentage-4" data-name="percentage" transform="translate(130 918)" fill="#fcf3f2" font-size="28" font-family="Ladislav-Bold, Ladislav" font-weight="700"><tspan x="-14.616" y="0">x%</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

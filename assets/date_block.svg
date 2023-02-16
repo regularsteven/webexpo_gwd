@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350.934" height="196.978" viewBox="0 0 350.934 196.978">
+  <g id="date_block" transform="translate(-151.479 -294.109)">
+    <g id="section_background" transform="translate(151.479 344.534)">
+      <rect id="rounded_white" width="350.934" height="146.553" rx="20" transform="translate(0 0)" fill="#fff"/>
+      <text id="February_16_2023_10:00_am" data-name="February 16, 2023
+10:00 am" transform="translate(29.934 63.897)" font-size="42" font-family="Ladislav-Bold, Ladislav" font-weight="700"><tspan x="0" y="0" class="copy_date">February 16, 2023</tspan><tspan x="0" y="50">10:00 am</tspan></text>
+    </g>
+    <g id="session_focus_heading" transform="translate(171.479 294.109)">
+      <rect id="heading_bg" width="97.475" height="50.454" transform="translate(0 0)" fill="#333"/>
+      <text id="Date" transform="translate(18.988 32.308)" fill="#fff" font-size="22" font-family="Ladislav-Bold, Ladislav" font-weight="700"><tspan x="0" y="0">Date:</tspan></text>
+    </g>
+  </g>
+</svg>
